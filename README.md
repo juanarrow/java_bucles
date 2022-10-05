@@ -34,7 +34,7 @@ Factorial de n = (n)*(n-1)*(n-2)*...*(1)
 7. Escribe un programa que dibuje una pirámide de altura N. Tendrás que solicitar la altura de la pirámide y luego debes pintarla de la siguiente manera:
 Altura 6:
 
-       \*
+     \*
        
      \*\*\*
      
