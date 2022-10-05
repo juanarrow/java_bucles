@@ -31,23 +31,7 @@ Factorial de n = (n)*(n-1)*(n-2)*...*(1)
 (10 puntos)
 
 
-7. Escribe un programa que dibuje una pirámide de altura N. Tendrás que solicitar la altura de la pirámide y luego debes pintarla de la siguiente manera:
-Altura 6:
-
-     \*
-       
-     \*\*\*
-     
-    \*\*\*\*\*
-    
-   \*\*\*\*\*\*\*
-   
-  \*\*\*\*\*\*\*\*\*
-  
- \*\*\*\*\*\*\*\*\*\*\*
- 
-\*\*\*\*\*\*\*\*\*\*\*\*\*
-
+7. Escribe un programa que dibuje una pirámide de altura N rellena de '*'. 
 (10 puntos)
 
 
@@ -55,22 +39,7 @@ Altura 6:
 (10 puntos)
 
 
-9. Escribe un programa que dibuje un cuadrado de altura N de la siguiente manera.
-Altura 3
-***
-* *
-***
-Altura 4
-****
-*  *
-*  *
-****
-Altura 5
-*****
-*   *
-*   *
-*   *
-*****
+9. Escribe un programa que dibuje un cuadrado de altura N con asteriscos solo por los bordes del mismo.
 (10 puntos)
 
 
